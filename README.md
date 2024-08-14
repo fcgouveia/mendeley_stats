@@ -53,15 +53,15 @@ The script will print information for each DOI, including:
 - Mendeley Document ID
 - Number of Readers
 
-If a document ID cannot be found for a DOI, an error message will be displayed.
+An error message will be displayed if a document ID cannot be found for a DOI.
 
 ## Note
 
-This script uses the Mendeley API, which may have rate limits or usage restrictions. Please review Mendeley's API documentation and terms of service before use.
+This script uses the Mendeley API, which may have rate limits or usage restrictions. Please look at Mendeley's API documentation and terms of service before you use it.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 
